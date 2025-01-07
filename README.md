@@ -78,7 +78,7 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 
 - Limpieza de los datos para eliminar valores faltantes y crear nuevas columnas. ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
 - Análisis exploratorio de datos para crear insights sobre el comportamiento de los clientes y diseñando visualizaciones para la explicación de los hallazgos. ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge)![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)![Plotly](https://img.shields.io/badge/Plotly-357ebd?style=for-the-badge)
-- Diseño de algoritmo de clusterizado para agrupar los distintos segmentos de clientes. ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![KMeans](https://img.shields.io/badge/KMeans-357ebd?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DH
+- Diseño de algoritmo de clusterizado para agrupar los distintos segmentos de clientes. ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![KMeans](https://img.shields.io/badge/KMeans-0078D7?style=for-the-badge&logo=scikitlearn&logoColor=white)
 - Diseño de pagina web para presentar los resultados de la segmentación e insights. ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -101,7 +101,8 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 - Lematización y tokenización de palabras para modelamiento. ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)![NLTK](https://img.shields.io/badge/NLTK-357ebd?style=for-the-badge)
 ![Spacy](https://img.shields.io/badge/Spacy-357ebd?style=for-the-badge)
-- Elaboración de modelos de clasificación de reseñas como positivas o negativas. ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)![LightGBM](https://img.shields.io/badge/LightGBM-green?logo=data:image/svg+xml;base64,<LOGO_BASE64>)![BERT](https://img.shields.io/badge/BERT-blue?logo=data:image/svg+xml;base64,<LOGO_BASE64>)![CatBoost](https://img.shields.io/badge/CatBoost-orange?logo=data:image/svg+xml;base64,<LOGO_BASE64>)
+- Elaboración de modelos de clasificación de reseñas como positivas o negativas. ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)![LightGBM](https://img.shields.io/badge/LightGBM-017E7E?style=for-the-badge&logo=LightGBM&logoColor=white) ![BERT](https://img.shields.io/badge/BERT-FFC107?style=for-the-badge&logo=BERT&logoColor=black) ![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge&logo=CatBoost&logoColor=white)
+
 - Repositorio git: https://github.com/santicar1809/aprendizaje_automatico_textos
 
 ![NLP](/assets/img/nlp.jpeg)
@@ -109,7 +110,7 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 ## Predicción de edad con imagenes - junio 2024
 
 - Preprocesamiento de imagenes. ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CV-blue?logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CV-blue?style=for-the-badge&logo=opencv&logoColor=white)
 - Elaboración de modelos de redes neuronales. ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)![Tensorflow](https://img.shields.io/badge/Tensorflow-%23357ebd.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 - Repositorio git: https://github.com/santicar1809/aprendizaje_automatico_textos
 
