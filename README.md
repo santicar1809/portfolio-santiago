@@ -8,8 +8,27 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 ![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-%23357ebd.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
-![Tensoflow](https://img.shields.io/badge/Tensorflow-%23357ebd.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-357ebd?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-357ebd?style=for-the-badge)
+![Spacy](https://img.shields.io/badge/Spacy-357ebd?style=for-the-badge)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-%23357ebd.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23357ebd.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-%23357ebd.svg?style=for-the-badge)
+![Azure Cloud](https://img.shields.io/badge/Azure_Cloud-%23357ebd.svg?style=for-the-badge)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-%23357ebd.svg?style=for-the-badge)
+![Databricks](https://img.shields.io/badge/Databricks-%23357ebd.svg?style=for-the-badge)
+![Synapse Studio](https://img.shields.io/badge/Synapse_Studio-%23357ebd.svg?style=for-the-badge)
+![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-%23357ebd.svg?style=for-the-badge)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-%23357ebd.svg?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-%23357ebd.svg?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-%23357ebd.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23357ebd.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-%23357ebd.svg?style=for-the-badge)
+![Estadística](https://img.shields.io/badge/Estad%C3%ADstica-%23357ebd.svg?style=for-the-badge)
+![Análisis estadístico](https://img.shields.io/badge/An%C3%A1lisis_Estad%C3%ADstico-%23357ebd.svg?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=power-bi&logoColor=white)
 
 ## Habilidades blandas
 
@@ -20,6 +39,7 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 - Comunicación efectiva: Capacidad para transmitir ideas y conocimientos de manera clara y comprensible.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-cardenas18/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santicar1809@gmail.com)
 
 ## Experiencia Laboral
 
@@ -50,7 +70,7 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 - Empaticé con los clientes que reciben sus productos comprados en mal estado para atender sus quejas.
 - Solucioné problemas con el producto y concilié entre el comprador y el vendedor.
 - Desarrollé templates para incrementar la productividad de las respuestas y generar mejor empatía con los clientes.
-- Generé buenas prácticas como líder de grupo para la mejora del equipo en Colombia
+- Generé buenas prácticas como líder de grupo para la mejora del equipo en Colombia.
 
 # Proyectos seleccionados
 
@@ -65,7 +85,7 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 
 ## Proyecto de pronóstico de cancelación de clientes en el sector de telecomunicaciones - junio 2024
 
-- Análisis exploratorio de datos para crear isights y generar preguntas a responder. (Python, pandas, Matplotlib, Seaborn, Plotly)
+- Análisis exploratorio de datos para crear insights y generar preguntas a responder. (Python, pandas, Matplotlib, Seaborn, Plotly)
 - Elaboración de modelo predictivo de clasificación de clientes que detecte los que cancelen para ofrecer promociones y aplicar técnicas de retención. (Python, Sci-kit learn) 
 - Repositorio git: https://github.com/santicar1809/interconect
 
@@ -74,3 +94,4 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 - Lematización y tokenización de palabras para modelamiento. (Python, pandas, Spacy, NLTK)
 - Elaboración de modelos de clasificación de reseñas como positivas o negativas. (Python, LGBM, CatBoost, BERT)  
 - Repositorio git: https://github.com/santicar1809/aprendizaje_automatico_textos
+
