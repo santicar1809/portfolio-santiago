@@ -82,16 +82,25 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 - Diseño de pagina web para presentar los resultados de la segmentación e insights. (HTML, CSS, JavaScript, Django)
 - Repositorio git datos: https://github.com/HidenLacan/Hackaton-data
 - Página web: https://hackatonersfrontend.onrender.com/
+![Retail](/assets/img/retail.jpeg)
 
-## Proyecto de pronóstico de cancelación de clientes en el sector de telecomunicaciones - junio 2024
+## Pronóstico de cancelación de clientes en el sector de telecomunicaciones - junio 2024
 
 - Análisis exploratorio de datos para crear insights y generar preguntas a responder. (Python, pandas, Matplotlib, Seaborn, Plotly)
 - Elaboración de modelo predictivo de clasificación de clientes que detecte los que cancelen para ofrecer promociones y aplicar técnicas de retención. (Python, Sci-kit learn) 
 - Repositorio git: https://github.com/santicar1809/interconect
+![Churn](/assets/img/churn.jpeg)
 
-## Proyecto de filtro y categorización de reseñas de películas con modelos predictivos - mayo 2024
+## Filtro y categorización de reseñas de películas con modelos predictivos - mayo 2024
 
 - Lematización y tokenización de palabras para modelamiento. (Python, pandas, Spacy, NLTK)
 - Elaboración de modelos de clasificación de reseñas como positivas o negativas. (Python, LGBM, CatBoost, BERT)  
 - Repositorio git: https://github.com/santicar1809/aprendizaje_automatico_textos
+![NLP](/assets/img/nlp.jpeg)
 
+## Predicción de edad con imagenes - junio 2024
+
+- Preprocesamiento de imagenes. (Python, pandas, CV)
+- Elaboración de modelos de redes neuronales. (Python, Tensorflow)  
+- Repositorio git: https://github.com/santicar1809/aprendizaje_automatico_textos
+![CV](/assets/img/cv.jpeg)
