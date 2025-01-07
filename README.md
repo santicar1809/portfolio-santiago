@@ -1,11 +1,5 @@
 # Data Scientist
 
-<div id="header" align="center">
-  <img decoding="async" src="https://github.com/santicar1809/banner_santi/blob/main/Banner%20para%20Linkedin%20programador%20con%20fotografia%20azul%20y%20blanco.png" width="800"/>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-cardenas18/)
-</div>
-
 ## 👋 Hi, I am Santiago! Nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave">
 
 Passionate about technology and enjoying a job transition to **Data Analytics** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="technology">.
