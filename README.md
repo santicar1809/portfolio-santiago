@@ -76,7 +76,7 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 
 ## Primer puesto de Hackaton de segmentación de clientes de compañía del sector de retail - julio 2024
 
-- Limpieza de los datos para eliminar valores faltantes y crear nuevas columnas.![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- Limpieza de los datos para eliminar valores faltantes y crear nuevas columnas. ![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
 - Análisis exploratorio de datos para crear insights sobre el comportamiento de los clientes y diseñando visualizaciones para la explicación de los hallazgos. (Python, Matplotlib, Seaborn, Plotly)
 - Diseño de algoritmo de clusterizado para agrupar los distintos segmentos de clientes. (Python, Sci-kit learn, KMeans)
 - Diseño de pagina web para presentar los resultados de la segmentación e insights. (HTML, CSS, JavaScript, Django)
