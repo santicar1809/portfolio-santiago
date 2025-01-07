@@ -96,8 +96,9 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 - Análisis exploratorio de datos para crear insights sobre el comportamiento de los clientes y diseñando visualizaciones para la explicación de los hallazgos. 
 - Diseño de algoritmo de clusterizado para agrupar los distintos segmentos de clientes.
 - Diseño de pagina web para presentar los resultados de la segmentación e insights. 
-- Repositorio git datos: https://github.com/HidenLacan/Hackaton-data
-- Página web: https://hackatonersfrontend.onrender.com/
+- Repositorio git datos: 
+- **Explora más detalles del proyecto en el [repositorio completo](https://github.com/HidenLacan/Hackaton-data).**
+- [Página web](https://hackatonersfrontend.onrender.com/)
 
 ![Retail](/assets/img/retail.jpeg)
 
@@ -115,8 +116,8 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 **Fases:**
 
 - Análisis exploratorio de datos para crear insights y generar preguntas a responder. 
-- Elaboración de modelo predictivo de clasificación de clientes que detecte los que cancelen para ofrecer promociones y aplicar técnicas de retención. 
-- Repositorio git: https://github.com/santicar1809/interconect
+- Elaboración de modelo predictivo de clasificación de clientes que detecte los que cancelen para ofrecer promociones y aplicar técnicas de retención.
+- **Explora más detalles del proyecto en el [repositorio completo](https://github.com/santicar1809/interconect).**
 
 ![Churn](/assets/img/churn.jpeg)
 
@@ -137,7 +138,7 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 
 - Lematización y tokenización de palabras para modelamiento. 
 - Elaboración de modelos de clasificación de reseñas como positivas o negativas.
-- Repositorio git: https://github.com/santicar1809/aprendizaje_automatico_textos
+- **Explora más detalles del proyecto en el [repositorio completo](https://github.com/santicar1809/aprendizaje_automatico_textos).**
 
 ![NLP](/assets/img/nlp.jpeg)
 
@@ -153,6 +154,6 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 
 - Preprocesamiento de imagenes.
 - Elaboración de modelos de redes neuronales.
-- Repositorio git: https://github.com/santicar1809/aprendizaje_automatico_textos
+- **Explora más detalles del proyecto en el [repositorio completo](https://github.com/santicar1809/aprendizaje_automatico_textos).**
 
 ![CV](/assets/img/cv.jpeg)
