@@ -4,12 +4,12 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 
 ## Habilidades técnicas
 
-- Python | pandas | NumPy | Tensorflow | NLTK | Spacy | seaborn | Matplotlib | Plotly | Sci-kit learn | PySpark | Pytorch 
-- Azure Cloud Database | Azure SQL | Databricks | Synapse Studio | Azure Data Studio | Microsoft Fabric
-- SQL | MySQL | SSMS | ProstgreSQL 
-- Análisis estadístico | Stats 
-- Microsoft Software Suite 
-- Power BI | Tableau
+![Python](https://img.shields.io/badge/python-357ebd?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23357ebd.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-%23357ebd.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
+![Tensoflow](https://img.shields.io/badge/Tensorflow-%23357ebd.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Habilidades blandas
 
