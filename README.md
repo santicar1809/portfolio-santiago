@@ -83,7 +83,7 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-357ebd?style=for-the-badge)
-[scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![KMeans](https://img.shields.io/badge/KMeans-0078D7?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -110,7 +110,7 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-357ebd?style=for-the-badge)
-[scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Fases:**
 
@@ -131,6 +131,7 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 ![LightGBM](https://img.shields.io/badge/LightGBM-017E7E?style=for-the-badge&logo=LightGBM&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-FFC107?style=for-the-badge&logo=BERT&logoColor=black)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FF6F00?style=for-the-badge&logo=CatBoost&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23357ebd.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Fases:**
 
