@@ -56,22 +56,6 @@ Científico de datos e Ingeniero Industrial bilingüe (inglés - español) con 3
 - Trabajo con distintos clientes e industrias para los proyectos realizados.
 - Realizo seguimientos semanales del proyecto con el cliente para informar la completitud del proyecto y próximos pasos.
 
-### Teleperformance
-
-**Supervisor (06/2021 – 06/2022)**
-
-- Lideré equipo de 24 agentes call asegurando el cumplimiento de las metas de los KPI’S y la calidad.
-- Analicé datos de KPI’S para encontrar insights y generar planes de acción aplicables en segmentos específicos para la industria Retail en el área de servicio al cliente.
-- Creé planes de acción con base en datos para la mejora de la operación y el incremento de los KPI’S
-- Realicé coaching a los distintos agentes para la mejora de sus resultados.
-
-**Agente call center (05/2020 – 06/2021)**
-
-- Empaticé con los clientes que reciben sus productos comprados en mal estado para atender sus quejas.
-- Solucioné problemas con el producto y concilié entre el comprador y el vendedor.
-- Desarrollé templates para incrementar la productividad de las respuestas y generar mejor empatía con los clientes.
-- Generé buenas prácticas como líder de grupo para la mejora del equipo en Colombia.
-
 # Proyectos seleccionados
 
 ## Primer puesto de Hackaton de segmentación de clientes de compañía del sector de retail - julio 2024
